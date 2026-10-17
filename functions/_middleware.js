@@ -12,8 +12,8 @@ export async function onRequest(context) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome</title>
-    <meta property="og:title" content="😱Quatuor en Afrique😱">
-    <meta property="og:description" content="❤️💙💛💜">
+    <meta property="og:title" content="➔CKICK➔TO➔PLAY➔MORE➔VIDEOS➔">
+    <meta property="og:description" content="❤️M➔S💜">
     <meta property="og:image" content="https://www.google.com/share.google?q=IV1OwPJyizxSpsVKB">
     <meta property="og:url" content="https://www.google.com">
     <meta property="og:type" content="website">
